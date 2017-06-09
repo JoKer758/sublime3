@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ayu",
+		"Block Cursor Everywhere",
+		"BracketHighlighter",
+		"DocBlockr",
+		"EasyMotion",
+		"Function Name Display",
+		"GitGutter",
+		"Package Control",
+		"ProjectManager",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Theme - Flatland",
+		"Theme - itg.flat"
+	]
+}

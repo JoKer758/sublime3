@@ -1,0 +1,6 @@
+{
+    "cmd": ["/Users/joker/opt/htdocs/Dockerfiles/python/venv/mytest/bin/python", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+    "encoding": "utf-8"
+}
