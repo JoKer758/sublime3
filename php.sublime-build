@@ -1,0 +1,6 @@
+{
+    "cmd": ["php", "-f", "$file"],
+    "file_regex": "php$",
+    "selector": "source.php",
+    "encoding": "utf-8"
+}
