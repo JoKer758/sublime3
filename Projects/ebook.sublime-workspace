@@ -16,17 +16,25 @@
 	"buffers":
 	[
 	],
-	"build_system": "",
+	"build_system": "Packages/User/py.sublime-build",
 	"build_system_choices":
 	[
 	],
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 400.0,
-		"last_filter": "gs",
+		"height": 78.0,
+		"last_filter": "add projec",
 		"selected_items":
 		[
+			[
+				"add projec",
+				"Project Manager: Add New Project"
+			],
+			[
+				"ad d",
+				"Git: Add Remote"
+			],
 			[
 				"gs",
 				"Git: Status"
@@ -104,13 +112,16 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/joker/opt/htdocs/Dockerfiles",
-		"/Users/joker/opt/htdocs/Dockerfiles/gearman",
-		"/Users/joker/opt/htdocs/Dockerfiles/memcache",
-		"/Users/joker/opt/htdocs/Dockerfiles/redis"
+		"/Users/joker/opt/htdocs/Python/ebook"
 	],
 	"file_history":
 	[
+		"/Users/joker/opt/htdocs/Python/ebook/ebook/spiders/test.py",
+		"/Users/joker/opt/htdocs/Python/ebook/to_db.py",
+		"/Users/joker/opt/htdocs/Python/ebook/ebook/pipelines.py",
+		"/Users/joker/opt/htdocs/Python/ebook/ebook/items.py",
+		"/Users/joker/opt/htdocs/Python/ebook/log.txt",
+		"/Users/joker/opt/htdocs/Python/ebook/ebook/middlewares.py",
 		"/Users/joker/opt/htdocs/Dockerfiles/docker-compose.yml",
 		"/Users/joker/opt/htdocs/Dockerfiles/read____1",
 		"/Users/joker/opt/htdocs/Dockerfiles/redis/read____1",
@@ -180,6 +191,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"    ",
+			"第1",
+			"    ",
+			"query_values",
+			"print",
+			"shengxu",
 			"virtua",
 			"venv",
 			"flask",
@@ -216,6 +233,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -266,15 +284,11 @@
 	{
 		"height": 0.0
 	},
-	"output.git-commit":
-	{
-		"height": 146.0
-	},
 	"pinned_build_system": "",
-	"project": "Dockerfiles.sublime-project",
+	"project": "ebook.sublime-project",
 	"replace":
 	{
-		"height": 58.0
+		"height": 76.0
 	},
 	"save_all_on_build": true,
 	"select_file":

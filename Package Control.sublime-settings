@@ -6,12 +6,16 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"auto-save",
 		"ayu",
 		"Block Cursor Everywhere",
 		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
 		"DocBlockr",
 		"EasyMotion",
 		"Function Name Display",
+		"GBK Support",
 		"GitGutter",
 		"Package Control",
 		"ProjectManager",
