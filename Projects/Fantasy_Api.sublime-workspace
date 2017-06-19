@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"medias",
+				"media_score"
+			],
+			[
+				"medsc",
+				"mediaScore"
+			],
+			[
+				"avkd",
+				"avgKda"
+			],
+			[
+				"plarate",
+				"palyRate"
+			],
+			[
+				"plaid",
+				"player_id"
+			],
+			[
+				"home",
+				"home_team\t(Fantasy.php)"
+			],
+			[
+				"From",
+				"FROM"
+			],
+			[
 				"plaer",
 				"player_id"
 			],
@@ -27,16 +55,7 @@
 			"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/cptools/Fantasy.php",
 			"settings":
 			{
-				"buffer_size": 14325,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/RoomGame.php",
-			"settings":
-			{
-				"buffer_size": 5602,
+				"buffer_size": 14376,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -51,75 +70,30 @@
 			}
 		},
 		{
-			"file": "/Users/joker/.hammerspoon/init.lua",
-			"settings":
-			{
-				"buffer_size": 7409,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config/db.php",
-			"settings":
-			{
-				"buffer_size": 871,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/.gitignore",
-			"settings":
-			{
-				"buffer_size": 222,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config/params.php",
-			"settings":
-			{
-				"buffer_size": 930,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryFootball.php",
-			"settings":
-			{
-				"buffer_size": 18270,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/OrderInfo.php",
-			"settings":
-			{
-				"buffer_size": 12569,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryGaming.php",
-			"settings":
-			{
-				"buffer_size": 10334,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryBasketball.php",
 			"settings":
 			{
 				"buffer_size": 13147,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryGaming.php",
+			"settings":
+			{
+				"buffer_size": 14723,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerGaming.php",
+			"settings":
+			{
+				"buffer_size": 6851,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -130,13 +104,33 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 400.0,
+		"height": 320.0,
 		"last_filter": "gs",
 		"selected_items":
 		[
 			[
 				"gs",
 				"Git: Status"
+			],
+			[
+				"git ",
+				"Git: Diff Cached"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"autos",
+				"Toggle AutoSave: current file only"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
 			],
 			[
 				"projectadd",
@@ -163,15 +157,7 @@
 				"Git: Status"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"instal",
-				"Package Control: Install Package"
-			],
-			[
-				"insta",
 				"Package Control: Install Package"
 			],
 			[
@@ -191,7 +177,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 529.0
+		"width": 561.0
 	},
 	"console":
 	{
@@ -213,28 +199,44 @@
 	[
 		"/Users/joker/opt/htdocs/Jed/Fantasy_Api",
 		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected",
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config",
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers",
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models",
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/www"
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers"
 	],
 	"file_history":
 	[
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config/params.php",
+		"/Users/joker/opt/htdocs/Python/ebook/log.txt",
+		"/Users/joker/Desktop/test.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/framework/yiilite.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryGaming.php",
 		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryFootball.php",
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/OrderInfo.php",
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/RoomGame.php",
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/cptools/Fantasy.php",
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/TimedtaskController.php",
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config/main.php",
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/helpers/Util.php",
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/TestController.php",
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/ImportDataController.php",
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/RoomController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryBasketball.php",
 		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerGaming.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/OrderInfo.php",
+		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/User/auto_save.sublime-settings",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/TestController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/helpers/Util.php",
+		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/DashDoc/DashDoc.sublime-settings",
+		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/DashDoc/Default (OSX).sublime-keymap",
+		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/User/print.sublime-snippet",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/OrderUserController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/RoomController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/SiteController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/TimedtaskController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/UcenterController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/BeeCloudController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/ImportDataController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config/main_log.php",
+		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/auto-save/Default (OSX).sublime-keymap",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/RoomGame.php",
+		"/Users/joker/.hammerspoon/init.lua",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config/db.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config/params.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/.gitignore",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/cptools/Fantasy.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config/main.php",
 		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/commands/RoomPlanCommand.php",
 		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/LeagueMatches.php",
-		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryBasketball.php",
 		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/Elog.php",
 		"/Users/joker/Code/Jedadmin/config.inc.php",
 		"/Users/joker/Code/Myadmin/config.inc.php",
@@ -270,7 +272,6 @@
 		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
 		"/Users/joker/Documents/Sublime/fantasy_api.sublime-project",
 		"/Users/joker/Code/Myadmin/doc/html/_sources/config.txt",
-		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/joker/Code/Fantasy_Api/protected/controllers/BeeCloudController.php",
 		"/Users/joker/Code/Fantasy_Api/protected/components/Controller.php",
@@ -286,7 +287,7 @@
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 54.0
 	},
 	"find_in_files":
 	{
@@ -302,6 +303,24 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"    等出了茶餐厅，坐进了一辆现代奔驰G系列豪车后，前座的三星驻金陵总代理恭敬道：“李董事，您要调查的资料已经全部在这里了。”",
+			"player",
+			"avg",
+			"kill",
+			"killing",
+			"kill",
+			"GRADE_KILLING",
+			"kill",
+			"backboard",
+			"point",
+			"averageHistoryData",
+			"MATCH_STATE_ALREADY_START",
+			"damage_dealt",
+			"GRADE_BLOCKS",
+			"develop",
+			"php",
+			"比赛已经开始",
+			"launch_or_focus_window",
 			"'USER_PHOTO_SAVE'=>'/home/_data/htdocs/www/Fantasy/product/Fantasy_Api/www/images/user/portrait/',",
 			"/home/_data/htdocs/www/Fantasy/product/Fantasy_Api/www/images/user/portrait/",
 			"player_name",
@@ -351,7 +370,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -360,7 +379,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14325,
+						"buffer_size": 14376,
 						"regions":
 						{
 							"bookmarks":
@@ -370,20 +389,12 @@
 								"regions":
 								[
 									[
-										1226,
-										1226
+										1190,
+										1215
 									],
 									[
-										11985,
-										12010
-									],
-									[
-										12301,
-										12324
-									],
-									[
-										12453,
-										12473
+										12568,
+										12593
 									]
 								],
 								"scope": "bookmarks"
@@ -392,8 +403,8 @@
 						"selection":
 						[
 							[
-								12924,
-								12941
+								12466,
+								12466
 							]
 						],
 						"settings":
@@ -405,8 +416,8 @@
 								{
 									"1":
 									[
-										12971,
-										12972
+										13022,
+										13023
 									]
 								},
 								"icon":
@@ -421,8 +432,8 @@
 								{
 									"1":
 									[
-										12012,
-										12013
+										12063,
+										12064
 									]
 								},
 								"unmatched":
@@ -431,21 +442,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
@@ -461,21 +457,26 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -485,9 +486,19 @@
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
-								"bh_default_content"
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
-							"function_name_status_row": 382,
+							"function_name_status_row": 371,
 							"git_gutter_is_enabled": true,
 							"is_init_dirty_state": false,
 							"origin_encoding": "UTF-8",
@@ -495,121 +506,14 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 8627.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/RoomGame.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5602,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"function_name_status_row": 0,
-							"git_gutter_is_enabled": true,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 3205.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/TestController.php",
 					"semi_transient": false,
 					"settings":
@@ -621,8 +525,8 @@
 						"selection":
 						[
 							[
-								1335,
-								1335
+								1348,
+								1348
 							]
 						],
 						"settings":
@@ -632,27 +536,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										1337,
-										1338
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/single_quote.png",
-										"brackethighlighter.default"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										1322,
-										1323
-									]
 								},
 								"unmatched":
 								{
@@ -660,16 +549,26 @@
 							},
 							"bracket_highlighter.regions":
 							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -680,43 +579,33 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content"
 							],
-							"function_name_status_row": 42,
+							"function_name_status_row": 45,
 							"git_gutter_is_enabled": true,
 							"is_init_dirty_state": false,
 							"origin_encoding": "UTF-8",
@@ -725,815 +614,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 381.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/joker/.hammerspoon/init.lua",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7409,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5147,
-								5160
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										5167,
-										5168
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										5160,
-										5161
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
-							],
-							"function_name_status_row": 232,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/Lua/Lua.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 6521.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config/db.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 871,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								704,
-								825
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										865,
-										866
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										560,
-										561
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"function_name_status_row": 22,
-							"git_gutter_is_enabled": true,
-							"is_init_dirty_state": false,
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 36.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/.gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 222,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								218,
-								218
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"function_name_status_row": 10,
-							"git_gutter_is_enabled": true,
-							"is_init_dirty_state": false,
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config/params.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 930,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								811,
-								811
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										923,
-										924
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										614,
-										615
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"function_name_status_row": 25,
-							"git_gutter_is_enabled": true,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 13.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryFootball.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 18270,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								10874,
-								10874
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"function_name_status_row": 289,
-							"git_gutter_is_enabled": true,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 6223.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/OrderInfo.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12569,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								11430,
-								11430
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-									"1":
-									[
-										12567,
-										12568
-									]
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"function_name_status_row": 330,
-							"git_gutter_is_enabled": true,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 7235.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryGaming.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10334,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8894,
-								8894
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-									"1":
-									[
-										10332,
-										10333
-									]
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"function_name_status_row": 301,
-							"git_gutter_is_enabled": true,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 5533.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
+					"buffer": 2,
 					"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryBasketball.php",
 					"semi_transient": false,
 					"settings":
@@ -1545,8 +633,8 @@
 						"selection":
 						[
 							[
-								8348,
-								8348
+								7071,
+								7079
 							]
 						],
 						"settings":
@@ -1556,12 +644,27 @@
 							{
 								"close":
 								{
+									"1":
+									[
+										7587,
+										7588
+									]
 								},
 								"icon":
 								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
 								},
 								"open":
 								{
+									"1":
+									[
+										6966,
+										6967
+									]
 								},
 								"unmatched":
 								{
@@ -1574,31 +677,6 @@
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -1614,18 +692,43 @@
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
-								"bh_default_content"
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
 							],
-							"function_name_status_row": 230,
+							"function_name_status_row": 193,
 							"git_gutter_is_enabled": true,
 							"is_init_dirty_state": false,
 							"origin_encoding": "UTF-8",
@@ -1633,10 +736,255 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 5539.0,
+						"translation.y": 3984.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryGaming.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14395,
+								14395
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14470,
+										14471
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										13833,
+										13834
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"easy_motion_mode": false,
+							"function_name_status_row": 426,
+							"git_gutter_is_enabled": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6023.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerGaming.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4572,
+								4575
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										5370,
+										5371
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										4134,
+										4135
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"function_name_status_row": 155,
+							"git_gutter_is_enabled": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2003.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -1644,7 +992,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 31.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -1689,7 +1037,7 @@
 	"project": "Fantasy_Api.sublime-project",
 	"replace":
 	{
-		"height": 58.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1698,6 +1046,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"plyaergaming",
+				"protected/models/PlayerGaming.php"
+			],
+			[
+				"test",
+				"protected/controllers/TestController.php"
+			],
+			[
+				"autosave",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/auto_save.sublime-settings"
+			],
 			[
 				"fant",
 				"protected/cptools/Fantasy.php"
@@ -1709,10 +1069,6 @@
 			[
 				"elog",
 				"protected/models/Elog.php"
-			],
-			[
-				"test",
-				"protected/controllers/TestController.php"
 			]
 		],
 		"width": 0.0

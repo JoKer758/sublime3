@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"Plyga",
+				"PlayerGaming\t(Fantasy.php)"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"medias",
+				"media_score"
+			],
+			[
+				"medsc",
+				"mediaScore"
+			],
+			[
+				"avkd",
+				"avgKda"
+			],
+			[
+				"plarate",
+				"palyRate"
+			],
+			[
+				"plaid",
+				"player_id"
+			],
+			[
+				"home",
+				"home_team\t(Fantasy.php)"
+			],
+			[
+				"From",
+				"FROM"
+			],
+			[
+				"plaer",
+				"player_id"
+			],
+			[
+				"player",
+				"player_id\t(OrderInfo.php)"
+			],
+			[
 				"order",
 				"ORDER_PROCESSING_COMPLETED"
 			],
@@ -15,33 +59,87 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/joker/opt/htdocs/Python/ebook/ebook/spiders/test.py",
+			"settings":
+			{
+				"buffer_size": 1530,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/joker/opt/htdocs/Python/ebook/to_db.py",
+			"settings":
+			{
+				"buffer_size": 747,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/User/py.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/py.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/py.sublime-build",
+				""
+			]
+		]
 	],
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 78.0,
-		"last_filter": "add projec",
+		"height": 259.0,
+		"last_filter": "addp",
 		"selected_items":
 		[
 			[
-				"add projec",
+				"addp",
 				"Project Manager: Add New Project"
 			],
 			[
-				"ad d",
-				"Git: Add Remote"
+				"g s",
+				"Git: Status"
 			],
 			[
 				"gs",
 				"Git: Status"
 			],
 			[
-				"g s",
-				"Git: Status"
+				"git ",
+				"Git: Diff Cached"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"autos",
+				"Toggle AutoSave: current file only"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
 			],
 			[
 				"projectadd",
@@ -64,15 +162,7 @@
 				"Package Control: List Packages"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"instal",
-				"Package Control: Install Package"
-			],
-			[
-				"insta",
 				"Package Control: Install Package"
 			],
 			[
@@ -92,7 +182,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 529.0
+		"width": 561.0
 	},
 	"console":
 	{
@@ -112,19 +202,52 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/joker/opt/htdocs/Python/ebook"
+		"/Users/joker/opt/htdocs/Python/ebook",
+		"/Users/joker/opt/htdocs/Python/ebook/ebook",
+		"/Users/joker/opt/htdocs/Python/ebook/ebook/spiders"
 	],
 	"file_history":
 	[
-		"/Users/joker/opt/htdocs/Python/ebook/ebook/spiders/test.py",
-		"/Users/joker/opt/htdocs/Python/ebook/to_db.py",
-		"/Users/joker/opt/htdocs/Python/ebook/ebook/pipelines.py",
-		"/Users/joker/opt/htdocs/Python/ebook/ebook/items.py",
+		"/Users/joker/opt/htdocs/Python/ebook/wulian.html",
+		"/Users/joker/opt/htdocs/Python/ebook/log.html",
 		"/Users/joker/opt/htdocs/Python/ebook/log.txt",
-		"/Users/joker/opt/htdocs/Python/ebook/ebook/middlewares.py",
-		"/Users/joker/opt/htdocs/Dockerfiles/docker-compose.yml",
-		"/Users/joker/opt/htdocs/Dockerfiles/read____1",
-		"/Users/joker/opt/htdocs/Dockerfiles/redis/read____1",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/TimedtaskController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/TestController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/RoomController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/OrderInfo.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerFootball.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerGaming.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/helpers/Util.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerBasic.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/extensions/mailer/phpmailer/language/phpmailer.lang-es.php.dump",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryBasketball.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryGaming.php",
+		"/Users/joker/Desktop/test.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/framework/yiilite.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/PlayerHistoryFootball.php",
+		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/User/auto_save.sublime-settings",
+		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/DashDoc/DashDoc.sublime-settings",
+		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/DashDoc/Default (OSX).sublime-keymap",
+		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/User/print.sublime-snippet",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/OrderUserController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/SiteController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/UcenterController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/BeeCloudController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/controllers/ImportDataController.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config/main_log.php",
+		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/auto-save/Default (OSX).sublime-keymap",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/RoomGame.php",
+		"/Users/joker/.hammerspoon/init.lua",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config/db.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config/params.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/.gitignore",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/cptools/Fantasy.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/config/main.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/commands/RoomPlanCommand.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/LeagueMatches.php",
+		"/Users/joker/opt/htdocs/Jed/Fantasy_Api/protected/models/Elog.php",
 		"/Users/joker/Code/Jedadmin/config.inc.php",
 		"/Users/joker/Code/Myadmin/config.inc.php",
 		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/User/Projects/phpmyadmin.sublime-project",
@@ -159,7 +282,6 @@
 		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
 		"/Users/joker/Documents/Sublime/fantasy_api.sublime-project",
 		"/Users/joker/Code/Myadmin/doc/html/_sources/config.txt",
-		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/joker/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/joker/Code/Fantasy_Api/protected/controllers/BeeCloudController.php",
 		"/Users/joker/Code/Fantasy_Api/protected/components/Controller.php",
@@ -175,7 +297,7 @@
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -191,16 +313,37 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"    ",
-			"第1",
-			"    ",
-			"query_values",
-			"print",
-			"shengxu",
-			"virtua",
-			"venv",
-			"flask",
-			"9000",
+			"updatePlayRate",
+			"database",
+			"death",
+			"assist",
+			"goal",
+			"getPlayersBattleFormation",
+			"    等出了茶餐厅，坐进了一辆现代奔驰G系列豪车后，前座的三星驻金陵总代理恭敬道：“李董事，您要调查的资料已经全部在这里了。”",
+			"player",
+			"avg",
+			"kill",
+			"killing",
+			"kill",
+			"GRADE_KILLING",
+			"kill",
+			"backboard",
+			"point",
+			"averageHistoryData",
+			"MATCH_STATE_ALREADY_START",
+			"damage_dealt",
+			"GRADE_BLOCKS",
+			"develop",
+			"php",
+			"比赛已经开始",
+			"launch_or_focus_window",
+			"'USER_PHOTO_SAVE'=>'/home/_data/htdocs/www/Fantasy/product/Fantasy_Api/www/images/user/portrait/',",
+			"/home/_data/htdocs/www/Fantasy/product/Fantasy_Api/www/images/user/portrait/",
+			"player_name",
+			"MATCH_STATE_ALREADY_START",
+			"ORDER_STATE_MATCH_NOEND",
+			"MATCH_STATE_ALREADY_START",
+			"playersSalaryArithmetic",
 			"tas",
 			"text",
 			"author",
@@ -233,7 +376,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -244,14 +386,253 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/joker/opt/htdocs/Python/ebook/ebook/spiders/test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								370,
+								370
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										375,
+										376
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										332,
+										333
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"function_name_status_row": 15,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 217.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/joker/opt/htdocs/Python/ebook/to_db.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										347,
+										348
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										311,
+										312
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"function_name_status_row": 11,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 31.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -280,6 +661,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 138.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -288,7 +673,7 @@
 	"project": "ebook.sublime-project",
 	"replace":
 	{
-		"height": 76.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -298,15 +683,39 @@
 		"selected_items":
 		[
 			[
+				"room",
+				"protected/controllers/RoomController.php"
+			],
+			[
+				"plaga",
+				"protected/models/PlayerGaming.php"
+			],
+			[
+				"plyaergaming",
+				"protected/models/PlayerGaming.php"
+			],
+			[
 				"test",
 				"protected/controllers/TestController.php"
+			],
+			[
+				"autosave",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/auto_save.sublime-settings"
+			],
+			[
+				"fant",
+				"protected/cptools/Fantasy.php"
+			],
+			[
+				"elog",
+				"protected/models/Elog.php"
 			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 500.0,
+		"height": 778.0,
 		"last_filter": "",
 		"selected_items":
 		[
@@ -315,7 +724,7 @@
 				"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/Fantasy_Api.sublime-project"
 			]
 		],
-		"width": 380.0
+		"width": 1276.0
 	},
 	"select_symbol":
 	{
