@@ -5,12 +5,14 @@
 	],
 	"installed_packages":
 	[
-		"All Autocomplete",
 		"auto-save",
 		"ayu",
+		"Better Completion",
 		"Block Cursor Everywhere",
 		"Boxy Theme",
 		"BracketHighlighter",
+		"Clipboard Diff",
+		"Clipboard Manager",
 		"Codecs33",
 		"ConvertToUTF8",
 		"DashDoc",
@@ -22,6 +24,7 @@
 		"GitGutter",
 		"Package Control",
 		"ProjectManager",
+		"SFTP",
 		"SideBarEnhancements",
 		"SublimeGit",
 		"SublimeLinter",
